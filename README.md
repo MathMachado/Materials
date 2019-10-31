@@ -1,2 +1,1 @@
-# Materials
-Repositório público com materiais (figuras e etc)
+Este folder contem as figuras e material de suporte para o treinamento.
